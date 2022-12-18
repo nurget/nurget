@@ -1,5 +1,14 @@
-### Hi there 👋
+Hi there 👋  I am still a college student and want to be a front-end developer. 🌱 <br>
+The Web mostly uses React. When developing apps, it prefers to develop cross-platforms such as 'React Native' and 'Flutter'. ✨
 
+### 🔭 Skills
+<h4>platforms & language</h4>
+
+<img src="https://img.shields.io/badge/ReactNative-00ffff?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-0275d8?style=flat-square&logo=typescript&logoColor=white"/>
+
+<h4>Tools</h4>
+
+<img src="https://img.shields.io/badge/Firebase-f57c00?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Git-f05133?style=flat-square&logo=git&logoColor=white"/>
 <!--
 **nurget/nurget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
