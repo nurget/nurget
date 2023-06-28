@@ -1,5 +1,5 @@
 Hi there 👋  I am still a college student and want to be a front-end developer. 🌱 <br>
-The Web mostly uses React. When developing apps, it prefers to develop cross-platforms such as 'React Native' and 'Flutter'. ✨
+The Web mostly uses React. When developing apps, it prefers to develop cross-platforms such as 'React Native'. ✨
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurget&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
