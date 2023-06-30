@@ -1,13 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=nurget%20github&fontSize=90)
 
 Hi there 👋  I am still a college student and want to be a front-end developer. 🌱 <br>
 The Web mostly uses React. When developing apps, it prefers to develop cross-platforms such as 'React Native'. ✨
 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurget&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurget&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+![Nurget's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurget&show_icons=true&bg_color=00000000)
 ### 🔭 Skills
 <h4>platforms & language</h4>
 
