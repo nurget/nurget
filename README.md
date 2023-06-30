@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=nurget%20github&fontSize=90)
+
 Hi there 👋  I am still a college student and want to be a front-end developer. 🌱 <br>
 The Web mostly uses React. When developing apps, it prefers to develop cross-platforms such as 'React Native'. ✨
 
