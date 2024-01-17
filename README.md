@@ -6,7 +6,8 @@ The Web mostly uses React. When developing apps, it prefers to develop cross-pla
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurget&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![nurget's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurget&show_icons=true&theme=vue)
+![Ayeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurget&theme=dark&show_icons=true)
+
 ### 🔭 Skills
 <h4>platforms & language</h4>
 
